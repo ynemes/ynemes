@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ynemes
-- 👀 I’m interested in cars, cats and coding :)
+- 👀 I’m interested in gardens, animals and code :)
 - 🌱 I’m currently learning JavaScript!
 
 <!---
