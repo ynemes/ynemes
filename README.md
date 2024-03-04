@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @ynemes
-- 👀 I’m interested in gardens, animals and code :)
-- 🌱 I’m currently learning JavaScript!
+- 👀 I’m interested in gardens and books :)
+- 🌱 I’m currently working with JavaScript!
+- I've also worked with C#
 
 <!---
 ynemes/ynemes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
